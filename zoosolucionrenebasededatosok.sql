@@ -1,3 +1,5 @@
+# https://www.w3schools.com/mysql/mysql_insert.asp
+
 CREATE DATABASE IF NOT EXISTS zoo;
 USE zoo ;
 
