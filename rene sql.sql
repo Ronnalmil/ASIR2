@@ -1,3 +1,5 @@
+https://aulavirtual32.educa.madrid.org/ies.mariadezayas.majadahonda/pluginfile.php/46757/mod_resource/content/12/MySQL%20Gesti%C3%B3n%20de%20permisos.pdf
+ 
 PRIMERA PARTE
 =============
 Crea un usuario 'tengopermisos' y otórgale permisos para que pueda crear usuarios:
