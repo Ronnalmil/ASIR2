@@ -13,3 +13,9 @@ m H d M s
 # Caso : Todos los 1 de cada enero y Lunes
 * 3 1 1 1
 
+# Caso:  Cada 10 minutos 
+0/10 * * * * /usr/bin/date > /tmp/time.txt
+
+# Caso:  atajos  :  @dayly  @month y así varios
+
+
